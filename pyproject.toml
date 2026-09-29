@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-robots-txt-crawl-delay-policy-evaluator-skill"
+version = "1.0.0"
+description = "RFC 9309 robots.txt parser with path permissions, Disallow/Allow rules, and crawl delay compliance"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
