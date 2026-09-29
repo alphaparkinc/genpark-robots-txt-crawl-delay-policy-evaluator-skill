@@ -1,0 +1,20 @@
+{
+  "name": "genpark-robots-txt-crawl-delay-policy-evaluator-skill",
+  "version": "1.0.0",
+  "description": "RFC 9309 robots.txt parser with path permissions, Disallow/Allow rules, and crawl delay compliance",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "robots-txt",
+    "web-crawler",
+    "rfc-9309",
+    "crawl-delay",
+    "agentic-browsing",
+    "python-standard-library",
+    "agent-skills",
+    "scraping-policy",
+    "compliance",
+    "developer-tools"
+  ]
+}
